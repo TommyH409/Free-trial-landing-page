@@ -34,13 +34,13 @@ body {
 
 .main-title {
   color: white;
-  background-color: red;
+  /* background-color: red; */
 }
 
 .main-par {
   color: white;
   font-size: 15px;
-  background-color: orangered;
+  /* background-color: orangered; */
   align-self: center;
 }
 
